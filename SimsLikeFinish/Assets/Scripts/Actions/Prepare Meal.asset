@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe2b995ae359b746ad13f4b8f1b5b33, type: 3}
+  m_Name: Prepare Meal
+  m_EditorClassIdentifier: 
+  needValues: []
+  timeDuration: 0
+  actions:
+  - {fileID: 11400000, guid: 374c1d6e07c55e743aba3683e32a80bd, type: 2}
+  - {fileID: 11400000, guid: 47a9628527868974d9871ddc06caa709, type: 2}
+  - {fileID: 11400000, guid: 8aa401ecd4f459b419e9068e7e452127, type: 2}
+  - {fileID: 11400000, guid: 355fd5daccbf573469e4ee9f5dc2962e, type: 2}

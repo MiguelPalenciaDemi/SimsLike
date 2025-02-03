@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b857d81447fff45bcc51dce60c9f2a, type: 3}
+  m_Name: Social
+  m_EditorClassIdentifier: 
+  needType: 5
+  decayRate: 0.5
+  weightCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 80
+      inSlope: -0.39871198
+      outSlope: -0.39871198
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 25.03011
+      value: 50.983776
+      inSlope: -0.37089756
+      outSlope: -0.37089756
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 53.843098
+      value: 40.385345
+      inSlope: -0.5132287
+      outSlope: -0.5132287
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.20189704
+      outWeight: 0.10258031
+    - serializedVersion: 3
+      time: 99.85547
+      value: 10.09903
+      inSlope: 0.07269708
+      outSlope: 0.07269708
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.13812256
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  icon: {fileID: 21300000, guid: fc945fd369507af4591919c8f98e12e2, type: 3}
