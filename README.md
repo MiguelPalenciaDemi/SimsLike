@@ -5,7 +5,7 @@ This is a prototype inspired by *The Sims* to experiment with needs management a
 ## 🎮 Features.
 - **Needs management**: Hunger, energy, fun, hygiene, social and bladder.
 - **AI system**: The character analyzes available objects, evaluates its options and selects an action based on a dynamic priority system.
-- Flexible decision making**: It does not always choose the most obvious action, but one of the three best options, avoiding predictable behaviors.
+- **Flexible decision making**: It does not always choose the most obvious action, but one of the three best options, avoiding predictable behaviors.
 - **Autonomy**: If the player does not assign tasks, the character will act on its own.
 
 ## 🧠 How does the AI work?
@@ -21,7 +21,7 @@ This is a prototype inspired by *The Sims* to experiment with needs management a
    ```sh
    git clone https://github.com/MiguelPalenciaDemi/SimsLike.git
    ```
-2. Open the project in Unity (recommended version: XX.XX.X).
+2. Open the project in Unity (recommended version: 6000.0.32f1).
 3. Run the main scene and experiment with the AI.
 
 ## 🚀 Future goals
